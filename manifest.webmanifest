@@ -1,0 +1,19 @@
+{
+  "name": "Pulso",
+  "short_name": "Pulso",
+  "description": "Tu salud, en un solo sitio.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#EDF0EE",
+  "theme_color": "#EDF0EE",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
